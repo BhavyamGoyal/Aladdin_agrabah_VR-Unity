@@ -34,3 +34,12 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/sailing-ship-model/source/sailing ship/sailing ship/textures/veliero.jpg
+Assets/sailing-ship-model/source/sailing ship/sailing ship/textures.meta
+Assets/sailing-ship-model/source/sailing ship/sailing ship.meta
+Assets/sailing-ship-model/source/sailing ship.meta
+Assets/sailing-ship-model/source.meta
+Assets/sailing-ship-model/source/sailing ship/sailing ship/veliero.obj
+Assets/sailing-ship-model/source/sailing ship/sailing ship/veliero.mtl.meta
+Assets/sailing-ship-model/source/sailing ship/sailing ship/veliero.mtl
+Assets/sailing-ship-model/source/sailing ship/sailing ship/textures/veliero.jpg.meta
